@@ -2,7 +2,7 @@
 # Coffee Shop Sales Analysis
 
 This project involves analyzing sales and customer footfall data for a coffee shop to identify key performance metrics, trends, and insights that can drive business decisions. The analysis was conducted using Excel.
-![Image Alt Text]()
+![Image Alt Text](https://github.com/Athul5817h/COFFEE-SALE-DASHBOARD/blob/main/Screenshot%202024-12-11%20182232.png)
 ## Key Insights
 
 - **Total Sales & Customer Metrics:** Calculated total sales, average bill per person, and average orders per person to understand revenue and customer behavior.
